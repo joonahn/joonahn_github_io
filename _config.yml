@@ -38,11 +38,11 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Categories:           
+    - '/'
+    - { python: '/blog/categories/#python' }
+    - { numpy: '/blog/categories/#numpy' }
   About:          
     - '/about/'
   Github Project: 
