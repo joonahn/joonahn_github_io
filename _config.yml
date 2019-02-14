@@ -44,6 +44,7 @@ nav:
     - { python: '/blog/categories/#python' }
     - { numpy: '/blog/categories/#numpy' }
     - { pandas: '/blog/categories/#pandas' }
+    - { docker: '/blog/categories/#docker' }
   About:          
     - '/about/'
   Github Project: 
