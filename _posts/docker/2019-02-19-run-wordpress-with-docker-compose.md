@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dockerfile로부터 docker image 만들기
+title: Docker compose로 wordpress 구동하기
 category: docker
 tags: [docker]
 comments: true
